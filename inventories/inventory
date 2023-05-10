@@ -1,5 +1,5 @@
 [servers]
-server1 ansible_host=10.240.249.255 ansible_user=host_01 
+server1 ansible_host=10.240.249.250 ansible_user=host_01 
 server2 ansible_host=10.240.250.2   ansible_user=host_02
 
 [haproxy]
